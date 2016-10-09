@@ -1,0 +1,11 @@
+linea 1
+linea 1
+linea 3. CHAU!
+
+Hola, este es un archivo de texto.
+
+Es multilinea.
+
+Tiene al menos 5 lineas de extension.
+
+
