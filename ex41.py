@@ -3,7 +3,7 @@
 # Ejercicio 40 pagina 146
 
 import random
-from urllib import import urlopen
+from urllib import urlopen
 
 WORD_URL = "http://learncodethehardway.org/words.txt"
 WORDS = []
